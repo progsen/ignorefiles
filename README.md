@@ -1,9 +1,10 @@
 # ignorefiles
 
-ignore files for csharp (core, net5+) and unity
-# csharp (core, net5+) 
+ignore files for csharp and unity
 
-basic cs ignore file, if you use .net framework you might still need to add the packages directory
+# csharp
+
+basic cs ignore file
 
 
 # unity
